@@ -62,6 +62,7 @@ body {
 .Contact{
     border:2px solid #343d46;
     margin: 150px;
+    box-shadow: 4px 4px 8px #f7f9f9;
 
 }
 .bu{
